@@ -1,0 +1,10 @@
+{
+  "name": "GraphQL-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matthew Burfield <burfie@hotmail.com> (https://matthew-burfield.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.9.6"
+  }
+}
